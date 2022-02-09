@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="random_images">
+        <item>@drawable/bike_lane</item>
+        <item>@drawable/check_headlights</item>
+        <item>@drawable/end_school_speed_limit</item>
+        <item>@drawable/exit</item>
+        <item>@drawable/fines_double</item>
+        <item>@drawable/hov_restriction_ends</item>
+        <item>@drawable/ice</item>
+        <item>@drawable/narrow_keep_right</item>
+        <item>@drawable/no_commercial_vehicles</item>
+        <item>@drawable/no_horses</item>
+        <item>@drawable/no_shoulder</item>
+        <item>@drawable/no_skating</item>
+        <item>@drawable/police</item>
+        <item>@drawable/roundabout</item>
+        <item>@drawable/speed_limit_50</item>
+        <item>@drawable/stop_here_on_flashing_red</item>
+        <item>@drawable/yield_to_pedestrians</item>
+    </integer-array>
+</resources>

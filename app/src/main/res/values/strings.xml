@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mod4_CT</string>f
+    <string-array name="Answers">
+        <item>Bike Lane</item>
+        <item>Check Headlights</item>
+        <item>End School Speed Limit</item>
+        <item>Exit</item>
+        <item>Fines Double</item>
+        <item>HOV Restriction Ends</item>
+        <item>Ice</item>
+        <item>Narrow Keep Right</item>
+        <item>No Commercial Vehicles</item>
+        <item>No Horses</item>
+        <item>No Shoulder</item>
+        <item>No Skating</item>
+        <item>Police</item>
+        <item>Roundabout</item>
+        <item>Speed Limit 50</item>
+        <item>Stop Here on Flashing Red</item>
+        <item>Yield to Pedestrians</item>
+    </string-array>
+</resources>
